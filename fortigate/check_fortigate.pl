@@ -316,8 +316,8 @@ my $oid_chklink_pktloss2  = ".1.3.6.1.4.1.12356.101.4.9.2.1.9.2";  # Location of
 my $oid_chklink_latency1  = ".1.3.6.1.4.1.12356.101.4.9.2.1.5.1";  # Location of Current latency sdwan-memeber 1 (ms)
 my $oid_chklink_latency2  = ".1.3.6.1.4.1.12356.101.4.9.2.1.5.2";  # Location of Current latency sdwan-memeber 2 (ms)
 
-my $oid_chklink_jitter1  = ".1.3.6.1.4.1.12356.101.4.9.2.1.5.1";  # Location of Current jitter sdwan-memeber 1 (ms)
-my $oid_chklink_jitter2  = ".1.3.6.1.4.1.12356.101.4.9.2.1.5.2";  # Location of Current jitter sdwan-memeber 2 (ms)
+my $oid_chklink_jitter1  = ".1.3.6.1.4.1.12356.101.4.9.2.1.6.1";  # Location of Current jitter sdwan-memeber 1 (ms)
+my $oid_chklink_jitter2  = ".1.3.6.1.4.1.12356.101.4.9.2.1.6.2";  # Location of Current jitter sdwan-memeber 2 (ms)
 
 
 # conserve Mode
